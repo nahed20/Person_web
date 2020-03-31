@@ -1,0 +1,11 @@
+common inline element :
+spans (<span>)
+images(<img>)
+anchors(<a>)
+
+
+common block element :
+parahprah (<p>)
+h1--h6 (<h1---h6>)
+div(<div>)
+form(<form>)
